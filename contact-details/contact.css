@@ -1,0 +1,75 @@
+body
+{
+	background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("aed.png");
+	background-size:cover;
+	width:100vh;
+	height:100vh; 
+}
+img
+{
+	position:absolute;
+	left:0px;
+	top:10px;
+	width:100%;
+}
+.row1 h1 
+{
+	position:relative;
+	top:70px;
+	left: 72%;
+	font-size: 60px;
+	color:white;
+
+}
+.row2 h1 {
+	
+ font-size: 40px;
+}
+#sunny
+{
+	position:relative;
+	left:70px;
+	top:95px;
+	color:green;
+}
+#sunny h2
+{
+	color:white;
+	font-size:25px;
+}
+#dikshit
+{
+	position:relative;
+	left:70px;
+	top:95px;
+	color:green;
+}
+#dikshit h2
+{
+	color:white;
+	font-size:25px;
+}
+#aman
+{
+	position:absolute;
+	left:800px;
+	top:180px;
+	color:green;
+}
+#aman h2
+{
+	color:white;
+	font-size:25px;
+}
+#adarsh
+{
+	position:absolute;
+	left:800px;
+	top:400px;
+	color:green;
+}
+#adarsh h2
+{
+	color:white;
+	font-size:25px;
+}

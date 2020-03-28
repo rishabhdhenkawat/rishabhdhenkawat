@@ -1,0 +1,81 @@
+#kullu 
+	{
+	position:absolute;
+	left:77vh;
+	font-size:80px;
+	color:lightgreen;
+	opacity:1;
+	}	
+#logo
+{
+	position:absolute;
+	left:0px;
+	top:10px;
+	height:auto;
+	width:300px;
+	float:left;
+}
+p
+{
+	position:absolute;
+	left:700px;
+	top:400px;
+}
+body
+{
+	background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("abc.jpg");
+	width:70vh;
+	height:100vh;
+	background-size:cover;
+	font-family:Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin:0;
+    padding:0;	
+    background-repeat: none;
+}
+.swiper-container
+{
+	width:100%;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.swiper-slide
+{
+	
+	width:500px;
+	height:350px;
+	color:white;
+	padding:0px;
+	border-width:3px;
+	border-style:solid;
+	border-color:black;
+	
+}
+#manali
+{
+	position:relative;
+	left:70vh;
+	top:120px;
+	font-size:30px;
+	animation-name:kufri;
+	animation-duration: 2s;
+	animation-iteration-count: infinite;
+}
+@keyframes kufri
+{
+	0%{color:green;}
+	100%{color:white;}
+}
+#imageslider
+{
+	position:relative;
+	top:100px;
+	left:20px;
+}
+#details
+{
+	position:absolute;
+	top:200px;
+	left:550px;
+	color:#79B372;
+
+}
